@@ -1,8 +1,5 @@
 package com.ietree.designpattern.adapter.worker.test;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.ietree.designpattern.adapter.worker.IWorkerAdapter;
 import com.ietree.designpattern.adapter.worker.impl.Cooker;
 import com.ietree.designpattern.adapter.worker.impl.Programmer;
