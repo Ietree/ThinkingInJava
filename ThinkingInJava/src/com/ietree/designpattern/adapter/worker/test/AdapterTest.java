@@ -1,6 +1,6 @@
 package com.ietree.designpattern.adapter.worker.test;
 
-import com.ietree.designpattern.adapter.worker.IWorkerAdapter;
+import com.ietree.designpattern.adapter.IWorkerAdapter;
 import com.ietree.designpattern.adapter.worker.impl.Cooker;
 import com.ietree.designpattern.adapter.worker.impl.Programmer;
 import com.ietree.designpattern.adapter.worker.impl.WorkerAdapter;

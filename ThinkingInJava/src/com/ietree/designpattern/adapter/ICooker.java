@@ -1,4 +1,4 @@
-package com.ietree.designpattern.adapter.worker;
+package com.ietree.designpattern.adapter;
 
 public interface ICooker {
 	String cook();

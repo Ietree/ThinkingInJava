@@ -1,8 +1,8 @@
 package com.ietree.designpattern.adapter.worker.impl;
 
-import com.ietree.designpattern.adapter.worker.ICooker;
-import com.ietree.designpattern.adapter.worker.IProgrammer;
-import com.ietree.designpattern.adapter.worker.IWorkerAdapter;
+import com.ietree.designpattern.adapter.ICooker;
+import com.ietree.designpattern.adapter.IProgrammer;
+import com.ietree.designpattern.adapter.IWorkerAdapter;
 
 /**
  * 适配器

@@ -1,6 +1,6 @@
 package com.ietree.designpattern.adapter.worker.impl;
 
-import com.ietree.designpattern.adapter.worker.ICooker;
+import com.ietree.designpattern.adapter.ICooker;
 
 public class Cooker implements ICooker {
 
