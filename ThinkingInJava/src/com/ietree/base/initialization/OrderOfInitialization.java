@@ -24,6 +24,7 @@ class House
     void f()
     {
         System.out.println("f()"); // 7
+        @SuppressWarnings("unused")
         Window w4 = new Window(4); // 8
     }
 

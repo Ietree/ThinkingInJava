@@ -1,4 +1,4 @@
-package com.ietree.oo.generics.genericcast;
+package com.ietree.base.generics.genericcast;
 
 public class GenericCast {
 

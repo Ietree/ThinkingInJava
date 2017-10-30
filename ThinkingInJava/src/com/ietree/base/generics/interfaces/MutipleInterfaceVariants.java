@@ -1,4 +1,4 @@
-package com.ietree.oo.generics.interfaces;
+package com.ietree.base.generics.interfaces;
 
 /**
  * 实现参数化接口

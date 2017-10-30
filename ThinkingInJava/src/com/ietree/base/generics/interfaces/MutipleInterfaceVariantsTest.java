@@ -1,4 +1,4 @@
-package com.ietree.oo.generics.interfaces;
+package com.ietree.base.generics.interfaces;
 
 public class MutipleInterfaceVariantsTest {
 	public static void main(String[] args) {
