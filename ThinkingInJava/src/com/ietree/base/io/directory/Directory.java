@@ -49,7 +49,7 @@ public final class Directory
         @Override
         public String toString()
         {
-            return "dirs:" + dirs + "\n\nfiles:" + files;
+            return "dirs:" + PPrint.pformat(dirs) + "\n\nfiles:" + PPrint.pformat(files);
         }
     }
 
