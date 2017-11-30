@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+D:\Java\Code\ThinkingInJava\.metadata\.plugins\org.eclipse.jdt.core
