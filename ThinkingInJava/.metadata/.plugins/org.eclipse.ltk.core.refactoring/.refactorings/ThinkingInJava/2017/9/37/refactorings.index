@@ -1,5 +1,0 @@
-1505258909873	Rename package 'com.ietree.adapter.worker'
-1505259190707	Extract local variable 'cooker'
-1505259205317	Extract local variable 'programmer'
-1505261125800	Rename type 'IWorker'
-1505261542841	Extract local variable 'adapter'
